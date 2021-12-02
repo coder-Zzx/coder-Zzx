@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-<!--
-**coder-Zzx/coder-Zzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
+⏳ Year progress { ███████████████████████████▁▁▁ } 91.93 %
+---
+⏰ Updated on Thu, 02 Dec 2021 13:14:54 GMT
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
