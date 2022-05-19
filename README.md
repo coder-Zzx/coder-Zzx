@@ -1,6 +1,6 @@
 ### Hi there 👋
-#### I am a student major in IoT at XJTU.
-📑 here is my [blog](https://xiaozhatecpp.fun/)
+### I am a student major in IoT at XJTU.
+📑 here is my [blog](https://xiaozhatecpp.fun/)   
 ⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 37.83 %
 ---
 ⏰ Updated on Thu, 19 May 2022 02:13:14 GMT
