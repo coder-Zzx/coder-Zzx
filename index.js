@@ -15,6 +15,8 @@ function generateProgressBar() {
 
 const readme = `\
 ### Hi there 👋
+### I'm a student major in IoT at XJTU   
+### here's my [blog](https://xiaozhatecpp.fun/)   
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ---
 ⏰ Updated on ${new Date().toUTCString()}
