@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I'm a student major in IoT at XJTU   
 ### here's my [blog](https://xiaozhatecpp.fun/)   
-⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 76.18 %
+⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 76.45 %
 ---
-⏰ Updated on Fri, 06 Oct 2023 01:17:05 GMT
+⏰ Updated on Sat, 07 Oct 2023 01:16:17 GMT
 ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 ![](https://raw.githubusercontent.com/coder-Zzx/coder-Zzx/main/assets/github-contribution-grid-snake.svg)
